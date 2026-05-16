@@ -1,3 +1,5 @@
+##PACEMAN
+
 This is a console-based implementation of Pac-Man in C, focusing on core mechanics like movement, score tracking, and collision detection. It features Pac-Man (or Cursor) as the player-controlled element navigating through a maze filled with walls, points (eatables), and demons.
 
 Key Functions:
