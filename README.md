@@ -5,7 +5,7 @@ This is a console-based implementation of Pac-Man in C, focusing on core mechani
 Key Functions:
 
 move(): Facilitates Pac-Man movement in all directions.
-
+    
 draw(): Renders the game board on the console.
 
 initialize(): Sets up the game board with walls, demons, and eatables.   
