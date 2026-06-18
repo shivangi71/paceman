@@ -14,3 +14,4 @@ initialize(): Sets up the game board with walls, demons, and eatables.
 The game dynamics involve Pac-Man collecting points while avoiding demons. As Pac-Man consumes points, the number of demons increases, heightening the challenge. This implementation offers a simplified version of the classic Pac-Man experience, showcasing fundamental gameplay elements in a console environment.
 
    
+    
